@@ -1,10 +1,15 @@
  body{
     max-width: 600px; 
-    margin: 100px auto;
+    margin: 60px auto;
+        -webkit-box-shadow: 1px 1px 4px 1px rgba(133,133,133,0.26);
+    -moz-box-shadow: 1px 1px 4px 0px rgba(133,133,133,0.26);
+    box-shadow: 2px 2px 5px 0 rgba(46, 61, 73, .2);
+    padding: 40px;
+     
     }   
     ul{
     list-style: none;
-    padding: 0 8px;
+    padding: 0;
     }
     .group 			  { 
     position:relative; 
